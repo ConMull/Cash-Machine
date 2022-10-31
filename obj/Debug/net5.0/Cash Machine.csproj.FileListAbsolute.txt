@@ -1,0 +1,16 @@
+C:\Users\connormulcahy\Desktop\Cash Machine\bin\Debug\net5.0\Cash Machine.exe
+C:\Users\connormulcahy\Desktop\Cash Machine\bin\Debug\net5.0\Cash Machine.deps.json
+C:\Users\connormulcahy\Desktop\Cash Machine\bin\Debug\net5.0\Cash Machine.runtimeconfig.json
+C:\Users\connormulcahy\Desktop\Cash Machine\bin\Debug\net5.0\Cash Machine.runtimeconfig.dev.json
+C:\Users\connormulcahy\Desktop\Cash Machine\bin\Debug\net5.0\Cash Machine.dll
+C:\Users\connormulcahy\Desktop\Cash Machine\bin\Debug\net5.0\ref\Cash Machine.dll
+C:\Users\connormulcahy\Desktop\Cash Machine\bin\Debug\net5.0\Cash Machine.pdb
+C:\Users\connormulcahy\Desktop\Cash Machine\obj\Debug\net5.0\Cash Machine.csproj.AssemblyReference.cache
+C:\Users\connormulcahy\Desktop\Cash Machine\obj\Debug\net5.0\Cash Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\connormulcahy\Desktop\Cash Machine\obj\Debug\net5.0\Cash Machine.AssemblyInfoInputs.cache
+C:\Users\connormulcahy\Desktop\Cash Machine\obj\Debug\net5.0\Cash Machine.AssemblyInfo.cs
+C:\Users\connormulcahy\Desktop\Cash Machine\obj\Debug\net5.0\Cash Machine.csproj.CoreCompileInputs.cache
+C:\Users\connormulcahy\Desktop\Cash Machine\obj\Debug\net5.0\Cash Machine.dll
+C:\Users\connormulcahy\Desktop\Cash Machine\obj\Debug\net5.0\ref\Cash Machine.dll
+C:\Users\connormulcahy\Desktop\Cash Machine\obj\Debug\net5.0\Cash Machine.pdb
+C:\Users\connormulcahy\Desktop\Cash Machine\obj\Debug\net5.0\Cash Machine.genruntimeconfig.cache
